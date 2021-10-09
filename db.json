@@ -1,0 +1,37 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed Network card on computer 007",
+      "attention": true,
+      "tech": "King Kikomba",
+      "date": "2021-10-07T20:46:34.342Z"
+    },
+    {
+      "id": 2,
+      "message": "Clear the box",
+      "attention": false,
+      "tech": "Daniel Smile",
+      "date": "2021-10-07T20:46:39.676Z"
+    },
+    {
+      "message": "Chnged ram",
+      "attention": false,
+      "tech": "Christian Alfani",
+      "date": "2021-10-07T21:33:37.173Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Patrick",
+      "lastName": "Rashidi",
+      "id": 1
+    },
+    {
+      "firstName": "Christian",
+      "lastName": "Alfani",
+      "id": 2
+    }
+  ]
+}
